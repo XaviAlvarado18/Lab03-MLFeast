@@ -1,0 +1,34 @@
+
+
+a
+house_id1Identificador Ãºnico para cada casa en el dataset"house_idJcalifornia_feature_store
+ã¼×ÇğÕêüã¼×ÇğÕêü
+O
+/
+__dummy"
+__dummy_idJcalifornia_feature_store
+ã¼×ÇğÕêüã¼×ÇğÕêü1"$56683a90-e46d-458f-a990-ce5db2afb0e5*¤½×Ç€˜©º2ò
+º
+california_housing_featurescalifornia_feature_storehouse_id"
+
+MedInc"
+HouseAge"
+AveRooms"
+	AveBedrms"
+
+Population"
+AveOccup"
+Latitude"
+	Longitude"
+MedHouseVal*
+teamml_engineering*
+datasetcalifornia_housing2€ç„:¥event_timestampZdata/california_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/california_data.parquet’ã¼×Çàô©Î"ã¼×ÇğÕêü@b
+house_id3
+ã¼×ÇğÕêü¤½×ÇÀ“ì¹
+¡ÖÒ¸ĞÁ²K€÷ÕÇRş
+û
+,feast.infra.online_stores.sqlite.SqliteTable"Ê
+‘C:\Users\rentt\Desktop\Universidad\5to AÃ±o\Machine Learning Engineering\Lab03-MLFeast\california_feature_store\feature_repo\data\online_store.db4california_feature_store_california_housing_featuresbÀevent_timestampZdata/california_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/california_data.parquetªcalifornia_feature_store’ã¼×Çàô©Î"ã¼×ÇğÕêüŠ:
+
+california_feature_store
+ã¼×Çà†Ğã¼×Çà†Ğ
